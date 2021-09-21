@@ -1,0 +1,5 @@
+start0,friendly,neutral,friendly,neutral,rude,rude
+start0,rude,rude,friendly,friendly,neutral,neutral
+start0,friendly,friendly,friendly,friendly,friendly,friendly
+house0,neutral,neutral,friendly,rude
+outdoors0,neutral,friendly,rude,rude,rude,rude,rude

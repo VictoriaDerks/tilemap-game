@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "norros">Hello there, [name] and Rindri! Welcome back.</text>
+        <text name = "norros">Huh, [name], what happened? You look like you've never been here before.</text>
+        <options>
+           <option tone="friendly">I'm so sorry, I don't really remember this place.</option>
+           <option tone="neutral">I lost my memory.</option>
+           <option tone="rude">None of your business, old man.</option>
+        </options>
+        <text name = "rindri" tone = "rude">Sorry for their behaviour, Master. [name] fell out of a tree and can't remember anything anymore.</text>
+        <text name = "norros">Hm, so it would seem. How much do you remember?</text>
+        <options>
+          <option tone="friendly">Not much, but I'll do my best to remember!</option>
+          <option tone="neutral">I don't remember anything</option>
+          <option tone="rude">What's it to you?</option>
+        </options>
+        <text name = "norros" tone="rude">I get that memory loss must be frustrating for you. But there is no need for that tone, [name].</text>
+        <text name="norros">It's a shame. And you were such a promising student.</text>
+        <options>
+            <option tone="friendly">Master Norros, could you help me get my memory back?</option>
+            <option tone="neutral">Can you help me?</option>
+            <option tone="rude">If you want to restore my memory, then do something to fix me.</option>
+        </options>
+        <text name="norros">I'm afraid there isn't much I can do. Retrograde amnesia is generally either cured by time or not cured at all.</text>
+        <text name="norros">However, we can try some things to jog your memory</text>
+        <text name="rindri">I've already tried that, Master. It didn't work. Maybe we should just focus on my training for now.</text>
+        <text name="rindri">Sorry, [name]. But you don't have any memories anymore, so there's no use in continuing your training.</text>
+        <text name="norros">Then, Rindri, would you like me to send [name] to Jaedran next door? They can help with cleaning the dojo and swords.</text>
+        <text name="rindri">Well, uhm... Yeah, maybe that's for the best? I'll prove to you that I'm just as good a student, Master!</text>
+        <text name="norros">What do you think, [name]?</text>
+        <options>
+            <option>Excuse my brashness, but feel like I can do more than cleaning.</option>
+            <option>Please let me try and retrieve my memories first.</option>
+            <option>What? Hell no, I don't want to clean for the rest of my life!</option>
+        </options>
+        <text name="norros">Interesting. So even though you don't remember anything, you still want to remain my student. That puts us at a bit of a crossroads, doesn't it? </text>
+        <text name="norros">If I listen to Rindri, I would stop your training here. But you seem to want to learn, even though it would mean starting over.</text>
+        <text name="norros">I will think over this situation. Why don't you head down to Arasne, [name]? Maybe visiting her will give you some more insight in what's going on.</text>
+        <text name="rindri">Aunt Arasne? I will join [name] then, Master. With your permission of course. Let's go, [name].</text>
+        <text name="norros">Actually, I would like you to stay here, Rindri. Or don't you want me to focus on your training, while [name] is gone?</text>
+        <text name="rindri">Sorry [name], you're on your own with this one. Have fun with aunt Arasne.</text>
+        <options>
+            <option>Thank you for your kindness, Master Norros.</option>
+            <option>Okay, bye then I guess?</option>
+            <option>Well that was useless.</option>
+        </options>
+        <text name="norros">I'd recommend visiting Jaedran next door first. If you haven't already, I'll send Rindri with you. Please come back once you're done, [name].</text>
+    </scene>

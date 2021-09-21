@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name="arasne">Hello, [name]. How are you feeling?</text>
+        <options>
+            <option tone="friendly">I still don't have my memory back, I'm afraid.</option>
+            <option tone="neutral">Fine, thanks.</option>
+            <option tone="rude">Ugh.</option>
+        </options>
+        <text name="arasne" tone="rude">Haha, at least you're honest.</text>
+        <text name="arasne">I hope you get your memory back soon, [name]! It would be a true shame if those memories had disappeared forever. Go talk to Norros, okay?</text>
+    </scene>

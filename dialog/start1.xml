@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "rindri">Oh no... Hey! Hey, wake up! Are you okay? Do you remember what happened?</text>
+        <options>
+           <option tone="friendly">Uhm, I'm sorry?</option>
+           <option tone="neutral">I'm awake.</option>
+           <option tone="rude">What the hell?!</option>
+        </options>
+        <text name = "rindri">You just fell out of that big tree over there! Do you remember?</text>
+        <options>
+           <option tone="friendly">Can't say I do, sorry about that</option>
+           <option tone="neutral">What tree?</option>
+           <option tone="rude">Are you messing with me?</option>
+        </options>
+        <text name = "rindri" tone = "rude">I'm not messing with you! I honestly want you to remember!</text>
+        <text name = "rindri">This is worse that I thought... You don't even remember what happened five minutes ago. Do you at least know who I am?</text>
+        <options>
+           <option tone="friendly">I'm sure you're a lovely person</option>
+           <option tone="neutral">Should I?</option>
+           <option tone="rude">No, who the hell are you?</option>
+        </options>
+        <text name = "rindri" tone = "friendly">Aw, that's very sweet of you. But... I'm not really.</text>
+        <text name = "rindri">This can't be true. It's me, we've been friends since we were snowed in for a month in the cabins as children! C'mon, try to remember!</text>
+        <options>
+           <option tone="friendly">Your name is... Princess Zelda?</option>
+           <option tone="neutral">This isn't working.</option>
+           <option tone="rude">I told you already, I don't remember! What do you want from me?!</option>
+        </options>
+        <text name = "rindri" tone = "friendly">That's a nice name, but... no.</text>
+        <text name = "rindri">Okay, fine, so you don't remember my name. Crap. It's Rindri, by the way. Do you remember yours at least?</text>
+        <text name = "rindri">your name</text>
+        <text name = "rindri">Of course I do! My name is</text>
+        <text name = "rindri">Phew, good! You do remember your own name, [name]! But you don't seem to remember anything else... We need to talk to Master Norros, I'm sure he'll have a solution!</text>
+        <options>
+           <option tone="friendly">Excuse me, who is Master Norros?</option>
+           <option tone="neutral">Okay.</option>
+           <option tone="rude">I don't want to.</option>
+        </options>
+        <text name = "rindri" tone = "friendly">Right, it would make sense that you don't remember him. He runs the dojo on top of the mountain. He's taught us both for many years...</text>
+        <text name = "rindri">C'mon, let's head to Snowstrand Peak! You lead the way, I'll follow you.</text>
+        <options>
+           <option tone="friendly">Are you sure that's a good idea?</option>
+           <option tone="neutral">I don't think that will work.</option>
+           <option tone="rude">You really want us to get lost, huh?</option>
+        </options>
+        <text name = "rindri" tone = "neutral">Have a little faith in yourself, [name]. We've walked this way thousands of times.</text>
+        <text name = "rindri">It's a great idea! Maybe it will jog your memory. Alright, enough talking. Let's go!</text>
+    </scene>

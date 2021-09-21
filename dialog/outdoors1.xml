@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "rindri">Hey [name], look. It's one of the cabins. You know, we used to actually really hate each other until we were snowed in there one winter.</text>
+        <text name="rindri">But I guess you don't remember that either. Strange to think that the only person who has all our shared memories is me.</text>
+        <options>
+           <option tone="friendly">I'll do my absolute best to remember soon!</option>
+           <option tone="neutral">Yeah, because I have no clue what you're talking about.</option>
+           <option tone="rude">I bet the memories weren't that great anyways.</option>
+        </options>
+        <text name = "rindri" tone="rude">You're right, definitely not all of them are.</text>
+        <text name="rindri">Huh, I just realised. I could tell you literally anything about our past, and you'd have no way to know if it was true. Kinda makes me feel powerful.</text>
+        <options>
+            <option tone="friendly">Surely, you wouldn't lie to me. Aren't you my best friend?</option>
+            <option tone="neutral">Unless I'm faking it, and I actually do remember everything.</option>
+            <option tone="rude">So what? The past sucks.</option>
+        </options>
+        <text name="rindri" tone="neutral">I don't think you're faking it. You were never one for acting.</text>
+        <text name="rindri">Right. Well, let me tell you about that winter in the cabins then. I remember it very well.</text>
+        <text name="rindri">We'd been training with Master Norros in the dojo. I kept defeating you, of course. You were all bruised and very cranky.</text>
+        <text name="rindri">So Master decided that we should stop practising and head outside for a bit. There was a big snowstorm going on. He said it would be a good training for the mind.</text>
+        <text name="rindri">We weren't even allowed to take our practise swords. It was aaall about training determination. Sheesh. You didn't want to go, of course, because you were a big scaredy cat. But I dragged you along.</text>
+        <text name="rindri">Then you decided that we might as well explore now that we were outside. We headed to the cabins, and you used your sword to break down the door.</text>
+        <options>
+            <option tone="friendly">I'm so sorry to interrupt, but I thought we didn't have swords?</option>
+            <option tone="neutral">Where'd I get the sword?</option>
+            <option tone="rude">This story sounds like bullshit.</option>
+        </options>
+        <text name="rindri">Just shut up and listen, okay! You got the sword from Jaedrin, you two were always close. Or actually, I got the sword and broke the door.</text>
+        <text name="rindri">Stop interrupting me with things you don't know about and let me tell the story. This is for your own good, I'm trying to help you remember here.</text>
+        <text name="rindri">Anyways... I broke down the door to the house and we went inside. There wasn't much, except some beds and a storage cupboard with food. I wanted to leave, but you insisted on napping.</text>
+        <text name="rindri">I guess you were tired from having you ass kicked, haha. I didn't feel like watching my worst enemy sleep, so I went out in the cold again to actually do the training.</text>
+        <text name="rindri">When I'd been outside for a bit, training my mind and body, I came back to see that the cabin you were in had a big pile of snow in front of the door. I shoveled it away with my sword.</text>
+        <text name="rindri">But then when I finally made my way inside, a big pile of snow fell down from the roof and blocked us both in! We couldn't open the door anymore, no matter how hard we tried.</text>
+        <text name="rindri">We had no other choice but to stay inside, and wait for the snow to melt. Luckily, we had rations in the cupboard and we could melt water from the snow.</text>
+        <text name="rindri">Of course, I had to do all that. You spend most of your time whining and crying. And Master Norros didn't help either, he just saw it as an extension of our training. I think he even added snow to the pile.</text>
+        <text name="rindri">Ah well, I guess by the end of it we had somehow become friends. Even though I basically took care of you for that entire month. I guess I felt pity for you or something.</text>
+        <text name="rindri">And there you have it. That's the story how we got snowed in and became friends.</text>
+        <options>
+            <option tone="friendly">That's an... interesting story. Thanks, Rindri.</option>
+            <option tone="neutral">That's really what happened? </option>
+            <option tone="rude">That's a crappy story.</option>
+        </options>
+        <text name="rindri">That's definitely what went down, like it or not. And I've basically been taking care of you since then. Just like I'm doing now.</text>
+        <text name="rindri">You're my friend, [name], but sometimes you can be quite a handful.</text>
+        <options>
+            <option tone = "friendly">That's kind of you, but I think I can take care of myself.</option>
+            <option tone="neutral">I'm stronger than you think, Rindri</option>
+            <option tone="rude">That's stupid. I don't need your help, Rindri.</option>
+        </options>
+        <text name="rindri">Hey now, who here knows your capabilities best? I spend years with you, and honestly [name], you're kinda weak. Trust me, you're pretty bad at most things.</text>
+        <options>
+            <option>That's not a very nice thing to say.</option>
+            <option>Uh, ouch? At least I don't have a huge ego like you.</option>
+            <option>Shut your mouth! I don't need your help, you egomaniac!</option>
+        </options>
+        <text name="rindri">Oh yeah?! Well then, come up with an example where you were actually capable. Come on then! I'll wait.</text>
+        <options>
+            <option tone = "friendly">I remembered my name.</option>
+            <option tone = "neutral">I found my way here.</option>
+            <option tone = "rude">I've resisted the urge to punch you in the face.</option>
+        </options>
+        <text name="rindri">Wow, big achievement. You couldn't come up with a single good example. I think this only demonstrates my point. But I'll be the bigger person and stop this fight that you started.</text>
+        <text name="rindri">Let's go, you idiot. Master Norros is waiting.</text>
+    </scene>

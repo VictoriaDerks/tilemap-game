@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "rindri">We're training, [name].</text>
+        <text name ="norros">Back so soon? Have you visited Arasne yet?</text>
+        <options>
+           <option tone="friendly">I'm on it.</option>
+           <option tone="neutral">No.</option>
+           <option tone="rude">Sheesh, I'm going already.</option>
+        </options>
+        <text name = "norros">Please take all the time you need.</text>
+    </scene>

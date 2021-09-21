@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "rindri">Oh, [name], you're back. Master Norros just left to get some sharper swords from Jaedran.</text>
+        <options>
+           <option tone="friendly">I'm sorry you felt the need to lie to me, Rindri.</option>
+           <option tone="neutral">Why? You're not even a good swordsman.</option>
+           <option tone="rude">You are such a piece of shit, Rindri.</option>
+        </options>
+        <text name = "rindri" tone="neutral">Huh, w-what? I'm a better swordsman than you, asshole.</text>
+        <text name = "rindri">Sheesh, what's gotten into you, [name]? I know you're jealous, but this is just rude. If you have nothing nice to say, just leave me alone.</text>
+        <options>
+            <option tone="friendly">Arasne told me the truth. Please don't lie to me anymore.</option>
+            <option tone="neutral">Arasne told me you were lying.</option>
+            <option tone="rude">Arasne told me you how much of a loser you really are.</option>
+        </options>
+        <text name="rindri">So that's what happened then... I didn't plan for you to find out, but I guess these things never go according to plan.</text>
+        <text name="rindri">You always have to swoop in and crush my hopes, [name]. You know, I believed in you. I really thought you could win the Redcrest Gauntlet.</text>
+        <text name="rindri">And look at you now. You're helpless. Pitiful. Naive. You trust anything anybody says to you. How can someone like that be part of the King's Guard?</text>
+        <text name="rindri">You're not the [name] I know anymore. It's up to me now to fulfill your destiny. I'll be the one who makes it out of this place. I'll put Snowstrand Peak on the map!</text>
+        <text name="rindri">And when I come back, I'll be the one who is revered. Not you. Me.</text>
+        <options>
+            <option tone="friendly">Rindri, we both know you're not ready yet.</option>
+            <option tone="neutral">You really think you can win the tournament, huh?</option>
+            <option tone="rude">There's no way you'll win, idiot.</option>
+        </options>
+        <text name="rindri">So what?! You can't do it either. I wanted you to win, [name]. I wanted you to bring at least somewhat of a reputation to this place.</text>
+        <text name="rindri">This used to be a place of warriors. But look at it now. It's awful. It's cold.</text>
+        <text name="rindri">We were going to make sure people talk about Snowstrand with amazement. And I will still do that. I will get this place out of the dark.</text>
+        <text name="rindri">And there's nothing you can do to stop me. Goodbye, [name]. This will be the last time we see each other.</text>
+        <options>
+            <option tone="friendly">We can still do it, Rindri. Together.</option>
+            <option tone="neutral">Where are you going? You can't win alone.</option>
+            <option tone="rude">Good riddance.</option>
+        </options>
+        <text name="rindri" tone="neutral">I don't care. I'll find someone to teach me. Someone better than you.</text>
+        <text name="rindri">Forget me, [name]. Although I guess you already have.</text>
+        <text name="norros">Oh, hello, [name]. I trust your talk with Arasne cleared some things up for you?</text>
+        <options>
+            <option tone="friendly">It certainly did, Master Norros.</option>
+            <option tone="neutral">Yeah. It was helpful.</option>
+            <option tone="rude">Couldn't you have told me all that yourself, old man?</option>
+        </options>
+        <text name="norros" tone="rude">I certainly could have, [name]. But I knew it would be best if you were told in Rindri's absence. For her sake, not yours.</text>
+        <text name="norros">I am glad you heard the truth. I knew when you didn't mention anything about the tournament that Rindri hadn't told you everything.</text>
+        <text name="norros">Please wait here, [name]. I have something to show you.</text>
+        <options>
+            <option tone="friendly">I'm sorry, but there's something you should know.</option>
+            <option tone="neutral">Wait. Something happened.</option>
+            <option tone="rude">You really don't notice anything strange?</option>
+        </options>
+        <text name="norros">What is it?</text>
+        <options>
+            <option tone="friendly">Rindri has left for the tournament.</option>
+            <option tone="neutral">Rindri left.</option>
+            <option tone="rude">Rindri isn't here anymore. We can focus on my training now.</option>
+        </options>
+        <text name="norros">She left... Thank you for telling me. I was afraid something like this would happen. However, there is nothing we could have done to stop her.</text>
+        <text name="norros">This only means what I'm going to show you is even more crucial. I will be right back.</text>
+        <options>
+            <option tone="friendly">Don't worry, I will stay here.</option>
+            <option tone="neutral">Well that makes me curious.</option>
+            <option tone="rude">I bet it's going to be something lame.</option>
+        </options>
+        <text name="norros">It... It's gone. Oh no, Rindri must have taken it with her! This is an awful development!</text>
+        <options>
+            <option tone="friendly">I'm sorry, what is gone?</option>
+            <option tone="neutral">That sounds bad.</option>
+            <option tone="rude">Of course, it is. Can't I ever have something nice?</option>
+        </options>
+        <text name="norros" tone="neutral">It is bad. Extremely bad indeed.</text>
+        <text name="norros">The Spark of Snow has disappeared. This amulet has been part of the dojo since its founding and contains immense power.</text>
+        <text name="norros">But because it's so powerful, only people with low or moderate magical abilities are able to use it.</text>
+        <text name="norros">For someone with enormous magical powers like Rindri to use it... The results could be disastrous.</text>
+        <text name="norros">You need to find Rindri, [name]. Prevent her from using the amulet. I know this is a big task to ask of you, but you're the only one who can do it.</text>
+        <text name="norros">Arasne, Jaedran, and I... We can't leave this mountain. Please, [name]. Don't let the amulet destroy your friend.</text>
+        <options>
+            <option tone="friendly">I won't fail, Master Norros! I will safe Rindri!</option>
+            <option tone="neutral">She isn't my friend. But alright.</option>
+            <option tone="rude">I will kick her ass and bring her back. Just watch me.</option>
+        </options>
+        <text name="norros">Best of luck, [name]. Now, depart on your adventure. Who knows what experiences might await you?</text>
+    </scene>

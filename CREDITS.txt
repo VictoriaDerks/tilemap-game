@@ -1,0 +1,39 @@
+Credit where credit is due
+
+However highly (or lowly) you may think of me, I didn’t not create all the assets that are used in this program. Nor all the code. Please find a full list of credits down here.
+
+Tilesets
+Tileset for the snow landscape: separate tilesets created by me from image found here: https://fanart.pokefans.net/tutorials/mapping/tilesets.
+Tileset for the grass landscape: tiles are from Pokemon FireRed/LeafGreen. Separate tilesets created by me from image found here: https://www.deviantart.com/ozotwo/art/Pokemon-Tileset-Fire-Red-Leaf-Green-Outdoors-C-446156842 
+
+Sprites
+Player sprites were custom-drawn by me, using the Tower Tycoon Palmer overworld sprite from Nintendo's Pokemon Diamond/Pearl as a reference: https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/6934/. The design is based on a certainly blonde haired, sheika slate wielding, amnesic Hyrulian boy. That’s right. (Please don’t sue me Nintendo, I have too much to live for.)
+Companion sprites were custom drawn by me, using the female Ace Trainer overworld sprite from Pokemon Diamond/Pearl as a reference: https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/6931/ 
+
+NPC images
+All NPC images were drawn by Ernesto Irawan: https://www.artstation.com/ernestoirawan and edited appropriately by me.
+Fox: http://pixeljoint.com/p/124605.htm 
+
+Background images
+Dojo background: Augustinas Raginskis, https://www.artstation.com/artwork/3o19ZA 
+Snow background: Reid Southen, https://www.deviantart.com/rahll/art/Convergence-215267624 
+Armoury background: Unknown
+House background: Unknown
+Lake background: http://material.animehack.jp/bg_nature.html, free to use 
+WASD keys: Thesaurusrex,  https://www.redbubble.com/people/thesaurusrex/works/21656630-wasd-keys-black?p=t-shirt 
+
+Dialog boxes
+All dialog boxes were made by me in Photoshop. 
+
+Software used
+Tiled tilemap editor for creating and editing the tilemap: https://www.mapeditor.org/. 
+Pycharm 2018.4.2 (Professional Edition) for writing/debugging code and .xml files: https://www.jetbrains.com/pycharm/ 
+Adobe Photoshop Elements 2018 for all image manipulation: https://www.adobe.com/uk/products/photoshop-elements/  
+
+Code
+Pygame: https://www.pygame.org/wiki/about 
+TMX: https://github.com/renfredxh/tmx (for importing the tilemap)
+PyQT: https://wiki.python.org/moin/PyQt (for the demographics GUI)
+Pyllet Town: https://github.com/renfredxh/pylletTown (reference/jumping-off-point for the Game file code)
+Text wrap: https://www.pygame.org/wiki/TextWrap 
+Input: https://stackoverflow.com/questions/14111381/how-to-get-text-input-from-user-in-pygame (jumping-off-point for the username input code)

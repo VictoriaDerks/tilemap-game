@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "jaedran">...</text>
+        <options>
+           <option tone="friendly">Hello! I'm Rindri's friend. It's a pleasure to meet you.</option>
+           <option tone="neutral">Uh, hi? Wow, nice swords.</option>
+           <option tone="rude">What, cat got your tongue?</option>
+        </options>
+        <text name = "rindri">[name], this is Jaedran. He's mute, so he isn't a great conversation partner. He's keeps the dojo clean though, the swords sharp, and he's a good swordsman.</text>
+        <text name="rindri">You've always preferred getting lessons from me, though. I don't know why, but you never liked Jaedran.</text>
+        <options>
+            <option tone="friendly">That must've been a misunderstanding. I'm certain he's a nice person.</option>
+            <option tone="neutral">How does he teach if he's mute?</option>
+            <option tone="rude">And for a good reason, I assume.</option>
+        </options>
+        <text name="rindri" tone="neutral">Well, you don't need words to show swordsmanship.</text>
+        <text name="rindri">Not to blow my own horn, but I'm a really good teacher as well. It's a shame you don't remember my great lessons.</text>
+        <options>
+            <option tone="friendly">Really? I'm so sorry to have forgotten about that.</option>
+            <option tone="neutral">Cool. You seem kind of young to teach though. Aren't we the same age?</option>
+            <option tone="rude">Yeah, rub it in why don't you.</option>
+        </options>
+        <text name="rindri">I'm best swordsman in this region actually. And I'm the best archer in the province as well. When I get out of here, I'm going to join the king's royal guard.</text>
+        <text name="rindri">Hehe, are you jealous? Just you wait, when I win the Recrest Gauntlet you're going to be honoured to have sparred with me.</text>
+        <text name="rindri">If I'm feeling generous, I might even sign your practice sword. You'll have to come to me though, because I won't ever be returning to this freezing place.</text>
+        <text name="jaedran">...</text>
+        <options>
+            <option tone="friendly">That's amazing, Rindri! I'll definitely support you at the tournament.</option>
+            <option tone="neutral">You seem very sure of yourself.</option>
+            <option tone="rude">That's quite an ego you've got there.</option>
+        </options>
+        <text name="rindri" tone="rude">Man [name], can't you just be supportive? Sheesh...</text>
+        <text name="rindri">I'll be busy packing and heading for the capital once I've won. But I'm sure I can find the time to show you my medal and consciption letter.</text>
+        <text name="rindri">It sucks that you'll probably never leave this place, what with your memory loss. Ah well, at least Jaedran will keep you company.</text>
+        <text name="rindri">Anyways, let's move on. Conversations with Jaedran always get very one-sided.</text>
+        <options>
+            <option tone="friendly">Nice to have met you, Jaedran. Please teach me to fight sometime.</option>
+            <option tone="neutral">See you around, Jaedran.</option>
+            <option tone="rude">Good talk, Jaedran.</option>
+        </options>
+        <text name="jaedran">...</text>
+    </scene>

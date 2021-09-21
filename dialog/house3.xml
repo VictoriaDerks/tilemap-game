@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name="arasne">Hello, [name]. What are you doing here?</text>
+        <options>
+            <option tone="friendly">I don't know, really. Master Norros send me.</option>
+            <option tone="neutral">Uh, I thought you knew?</option>
+            <option tone="rude">Don't say I walked all the way down here for nothing...</option>
+        </options>
+        <text name="arasne">I'm just messing with you. Master Norros already told me why you are here.</text>
+        <options>
+            <option tone="friendly">That's wonderful. Although a bit strange...</option>
+            <option tone="neutral">How did he manage that? I went straight here.</option>
+            <option tone="rude">Uhh, no he didn't.</option>
+        </options>
+        <text name="arasne" tone="friendly">You're confused as to how I know, right? No need to hide it.</text>
+        <text name="arasne">We communicate through "magic", [name]. Although that's not the proper word for it, it does explain how I know, doesn't it?</text>
+        <options>
+            <option tone="friendly">That sounds... very helpful.</option>
+            <option tone="neutral">I see.</option>
+            <option tone="rude">That's the stupidest thing I've ever heard.</option>
+        </options>
+        <text name="arasne">It's not strange for you to be sceptic, [name]. Actually, you always were. You see, you posses an uncommonly low amount of magical talent compared to the other people in this world.</text>
+        <text name="arasne">That means you can't sense magical traces, like others would. And it seems your experience with magic was wiped out when you lost your memory. But I'm getting ahead of myself.</text>
+        <options>
+            <option tone="friendly">I'm sorry for being so useless...</option>
+            <option tone="neutral">Man, I can't do anything.</option>
+            <option tone="rude">So I can't do magic to booth?! This is the worst!</option>
+        </options>
+        <text name="arasne">You're good at other things, [name]. What has Rindri told you yet, about yourself?</text>
+        <options>
+            <option tone="friendly">Nothing very positive, unfortunately.</option>
+            <option tone="neutral">That I'm weak.</option>
+            <option tone="rude">Oooh boy, let's not get into what Rindri said.</option>
+        </options>
+        <text name="arasne">She hasn't been very friendly then, I assume. Listen, [name], I'm sorry to tell you this, but Rindri might not have told you the whole truth.</text>
+        <options>
+            <option tone="friendly">I... suspected something of the sort.</option>
+            <option tone="neutral">She took advantage of my memory loss, then.</option>
+            <option tone="rude">Ha! I knew it! How dare she?!</option>
+        </options>
+        <text name="arasne">I am not sure what she told you. But [name], you are a very skilled swordsman. The best in the region actually.</text>
+        <text name="arasne">You've learned from Norros and Jaedran, and taught Rindri when she didn't get the material. You were well on your way to enter the Redcrest Gauntlet.</text>
+        <options>
+            <option tone="friendly">I'm a good swordsman? That's great news!</option>
+            <option tone="neutral">Redcrest Gauntlet?</option>
+            <option tone="rude">Damn right I'm the best.</option>
+        </options>
+        <text name="arasne">The Redcrest Gauntlet is where important decision about the King's Guard are made. This is where you can prove how good you really are.</text>
+        <text name="arasne">You and Rindri have both been training for it since you were little. However, you'd always defeat her. Despite your lack of magical power, you were still the stronger one.</text>
+        <text name="arasne">But now that you've lost your memory and the tournament is in a week, it's unlikely that you'll compete. That means there's space for Rindri. But she isn't ready.</text>
+        <text name="arasne">In fact, I'm afraid it will take years before Rindri has reached the level you had. It certainly is a tough situation. I don't envy the decision Norros has to make.</text>
+        <options>
+            <option tone="friendly">Sorry if this sounds stupid, but can't I still enter?</option>
+            <option tone="neutral">I want to take part in the Redcrest Gauntlet</option>
+            <option tone="rude">Let me enter. I can fight.</option>
+        </options>
+        <text name="arasne">You seem determined. But that choice is not mine to make. [name], you are a good person. Whatever Norros decides, please know that you will always find a place in this world.</text>
+        <options>
+            <option tone="friendly">Aw, that's very sweet of you. I'll remember that.</option>
+            <option tone="neutral">Thank you, Arasne. That's kind.</option>
+            <option tone="rude">Yeah... Thanks..</option>
+        </options>
+        <text name="arasne">Now then, enough serious talk! I feel like that just made me grow ten years older. Would you l-</text>
+        <text name="arasne">Wait, hold on.</text>
+        <text name="arasne">[name], you have to head back to the dojo right now! I feel like something bad is about to happen. Hurry up!</text>
+        <options>
+            <option tone="friendly">Oh no! Can you tell me what it is?</option>
+            <option tone="neutral">Something bad?</option>
+            <option tone="rude">Thanks, I hate it.</option>
+        </options>
+        <text name="arasne">I don't know what's going on exactly, but my intuition is going haywire. [name], there's no time to waste.</text>
+    </scene>

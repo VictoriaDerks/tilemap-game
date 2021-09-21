@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name = "jaedran">...</text>
+        <options>
+           <option tone="friendly">Hello, Jaedran. How are you doing?</option>
+           <option tone="neutral">Can I touch the swords?</option>
+           <option tone="rude">I don't know what I expected...</option>
+        </options>
+        <text name="jaedran">.....</text>
+        <options>
+            <option>Well, let me know if you need anything. Just gesture, okay?</option>
+            <option>That's fine. I'll ask master Norros for a sword.</option>
+            <option>Honesty Jaedran, I don't think we'll ever get along. Bye.</option>
+        </options>
+        <text name="jaedran">...</text>
+    </scene>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <scene>
+        <text name="arasne">Hello, you two! You're back early. Weren't you going to go sparring by the lake?</text>
+        <text name="rindri">Hi, aunt Arasne. Yeah, we've had a bit of a situation at the lake. We're just going to go see Master about it.</text>
+        <text name="arasne">Don't call me aunt, Rindri. You're making me feel old! Is there anything I can do to help you two?</text>
+        <text name="rindri">We're fine, thanks. We don't need anything from you. Let's go, [name].</text>
+        <text name="arasne">Hold on a minute, Rindri.</text>
+        <text name="arasne">How about you, [name]? You're awfully quiet. Are you okay?</text>
+        <options>
+           <option tone="friendly">Please don't worry about me, Miss Arasne.</option>
+           <option tone="neutral">I'm a bit... confused.</option>
+           <option tone="rude">None of your business.</option>
+        </options>
+        <text name ="arasne" tone="neutral">Well, that's not very surprising in this situation.</text>
+        <text name = "arasne">You've lost your memory, haven't you? Don't look so surprised, [name]. You two were never able to hide anything from me.</text>
+        <text name = "arasne">I can't heal your amnesia, but I can give you something for that nasty bruise on your head. Come here, it'll help. Rindri can attest to that.</text>
+        <options>
+           <option tone="friendly">That's very nice of you, thank you.</option>
+           <option tone="neutral">Rindri? Why?</option>
+           <option tone="rude">I don't want it.</option>
+        </options>
+        <text name = "rindri">[name] is fine, aunt Arasne. Don't worry about it. We'll be okay. Let's go, [name].</text>
+        <text name = "arasne">I don't think you get to decide that, Rindri. And the ointment works, doesn't it?</text>
+        <text name="rindri">Yes, it works... It stings like hell, though. I just don't want [name] to get even more hurt!</text>
+        <text name="arasne">Well then, there you have it. [name], do you want me to take care of that bruise?</text>
+        <options>
+           <option tone="friendly">Thank you so much, that would be wonderful.</option>
+           <option tone="neutral">Sure, I guess it can't be that bad.</option>
+           <option tone="rude">What, do you think I can't handle a little sting?</option>
+        </options>
+        <text name = "arasne">Here you go then.</text>
+        <text name="arasne">There, all done. Now, I'm sure Master Norros would love to hear the whole story from you both as soon as possible. Best not keep him waiting.</text>
+        <text name = "rindri">Yep, I'm sure he would. Let's go, [name].</text>
+        <options>
+           <option tone="friendly">Good bye, Miss Arasne. Have a nice day.</option>
+           <option tone="neutral">Bye Arasne.</option>
+           <option tone="rude">...</option>
+        </options>
+        <text name="arasne">Try to not fall out of any more trees, okay?</text>
+    </scene>
