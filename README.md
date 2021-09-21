@@ -65,33 +65,40 @@ All player choice information can be found in the `participants/[player name] ch
 A new player choice file will be created for each player, provided the player doesn’t use the same name as an existing 
 player on the same day. 
 
-##Credit where credit is due
-However highly (or lowly) you may think of me, I didn’t not create all the assets that are used in this program. Nor all the code. Please find a full list of credits down here.
+## Credit where credit is due
+However highly (or lowly) you may think of me, I didn’t not create all the assets that are used in this program. Nor all
+the code. Please find a full list of credits down here.
 
-###Tilesets
-* Tileset for the snow landscape: separate tilesets created by me from image found here: https://fanart.pokefans.net/tutorials/mapping/tilesets.
-* Tileset for the grass landscape: tiles are from Pokemon FireRed/LeafGreen. Separate tilesets created by me from image found here: https://www.deviantart.com/ozotwo/art/Pokemon-Tileset-Fire-Red-Leaf-Green-Outdoors-C-446156842 
-###Sprites
-* Player sprites were custom-drawn by me, using the Tower Tycoon Palmer overworld sprite from Nintendo’s Pokemon Diamond/Pearl as a reference: https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/6934/. The design is based on a certainly blonde haired, sheika slate wielding, amnesic Hyrulian boy. That’s right. (Please don’t sue me Nintendo, I have too much to live for.)
+### Tilesets
+* Tileset for the snow landscape: separate tilesets created by me from image found here: 
+* https://fanart.pokefans.net/tutorials/mapping/tilesets.
+* Tileset for the grass landscape: tiles are from Pokemon FireRed/LeafGreen. Separate tilesets created by me from image 
+found here: https://www.deviantart.com/ozotwo/art/Pokemon-Tileset-Fire-Red-Leaf-Green-Outdoors-C-446156842 
+### Sprites
+* Player sprites were custom-drawn by me, using the Tower Tycoon Palmer overworld sprite from Nintendo’s Pokemon Diamond
+/Pearl as a reference: https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/6934/. 
+The design is based on a certainly blonde haired, sheika slate wielding, amnesic Hyrulian boy. That’s right. 
+(Please don’t sue me Nintendo, I have too much to live for.)
  
 <img src="img/img.png" width="300" alt = "Link from Breath of the Wild">
 
 [comment]: <> (![Link from Breath of the Wild]&#40;img.png?raw=true&#41;)
 
-* Companion sprites were custom drawn by me, using the female Ace Trainer overworld sprite from Pokemon Diamond/Pearl as a reference: https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/6931/ 
-###NPC images
+* Companion sprites were custom drawn by me, using the female Ace Trainer overworld sprite from Pokemon Diamond/Pearl as
+a reference: https://www.spriters-resource.com/ds_dsi/pokemondiamondpearl/sheet/6931/ 
+### NPC images
 * All NPC images were drawn by Ernesto Irawan: https://www.artstation.com/ernestoirawan and edited appropriately by me.
 * Fox: http://pixeljoint.com/p/124605.htm 
-###Background images
+### Background images
 * Dojo background: Augustinas Raginskis, https://www.artstation.com/artwork/3o19ZA 
 * Snow background: Reid Southen, https://www.deviantart.com/rahll/art/Convergence-215267624 
 * Armoury background: Unknown
 * House background: Unknown
 * Lake background: http://material.animehack.jp/bg_nature.html, free to use 
 * WASD keys: Thesaurusrex,  https://www.redbubble.com/people/thesaurusrex/works/21656630-wasd-keys-black?p=t-shirt 
-###Dialog boxes
+### Dialog boxes
 All dialog boxes were made by me in Photoshop. 
-###Software used
+### Software used
 * Tiled tilemap editor for creating and editing the tilemap: https://www.mapeditor.org/. 
 * Pycharm 2018.4.2 (Professional Edition) for writing/debugging code and .xml files: https://www.jetbrains.com/pycharm/ 
 * Adobe Photoshop Elements 2018 for all image manipulation: https://www.adobe.com/uk/products/photoshop-elements/  
@@ -101,6 +108,8 @@ All dialog boxes were made by me in Photoshop.
 * PyQT: https://wiki.python.org/moin/PyQt (for the demographics GUI)
 * Pyllet Town: https://github.com/renfredxh/pylletTown (reference/jumping-off-point for the Game file code)
 * Text wrap: https://www.pygame.org/wiki/TextWrap 
-* Input: https://stackoverflow.com/questions/14111381/how-to-get-text-input-from-user-in-pygame (jumping-off-point for the username input code)
+* Input: https://stackoverflow.com/questions/14111381/how-to-get-text-input-from-user-in-pygame (jumping-off-point for 
+the username input code)
 
-I started this project on 23/01/2019 without any previous game dev knowledge and worked on it almost every day for multiple hours until 17/02/2019. Although it was definitely not always enjoyable (I despised the damn thing by the end of it) and it took the place of many, many other things I could and should have been doing, I have to say I’m quite proud of the result. Hopefully, you’ll agree 😊 
+I started this project on 23/01/2019 without any previous game dev knowledge and worked on it almost every day for 
+multiple hours until 17/02/2019. Although it was definitely not always enjoyable (I despised the damn thing by the end of it) and it took the place of many, many other things I could and should have been doing, I have to say I’m quite proud of the result. Hopefully, you’ll agree 😊 
