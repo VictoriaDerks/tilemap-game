@@ -195,7 +195,6 @@ def loop():
                 pygame.quit()
                 quit()
             if event.type == pygame.KEYUP:
-                print(event.key)
                 if event.key == pygame.K_e:
                     newText.textUpdate(newDialog, "e")
                 elif event.key == pygame.K_s:
