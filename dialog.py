@@ -19,7 +19,7 @@ myfont = pygame.font.Font("fonts/OpenSans-Regular.ttf", 25)  # set font for dial
 class DialogScreen:
     def __init__(self, number):
         # this code gets the get variables belonging to the custom 'entry' property triggered cell (location & NPC name)
-        triggers = tmx.load('test4.tmx', (900, 506)).layers['triggers']  # get the triggers tilemap layer
+        triggers = tmx.load('tilemap.tmx', (900, 506)).layers['triggers']  # get the triggers tilemap layer
         self.input = triggers.find('entry')[number]['entry']
         self.values = self.input.split(",")  # split the variables at the ","
         self.bg = "img/" + self.values[0] + ".png"  # values[0] = string containing location. Matches a bg image in img
@@ -133,7 +133,7 @@ class DialogText:
         # this block turns the .xml file into 4 more manageable lists (tone list, npc list & text list and options list)
         for line in self.root:
             if line.tag == "text":
-                npcName = line.get("name").title()  # get the npcName from the name attribute
+                npcName = line.get("name").lower()  # get the npcName from the name attribute
                 tone = line.get("tone")  # get the line's tone from the tone attribute (if it exists)
                 text = line.text
                 # all lists created in init

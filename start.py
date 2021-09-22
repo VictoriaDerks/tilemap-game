@@ -18,7 +18,7 @@ myfont = pygame.font.Font("fonts/OpenSans-Regular.ttf", 25)
 
 class DialogScreen:
     def __init__(self):
-        self.values = ["start", "Rindri"]  # hardcoded list, because can't get from tilemap. Sets starting location&NPC.
+        self.values = ["start", "rindri"]  # hardcoded list, because can't get from tilemap. Sets starting location&NPC.
         self.bg = "img/" + self.values[0] + ".png"
 
     def drawbg(self):
@@ -68,7 +68,7 @@ class DialogText:
         self.lengthScene = len(self.root)
 
         for line in self.root:
-            self.npcList.append("Rindri")  # all start text is spoken by Rindri
+            self.npcList.append("rindri")  # all start text is spoken by Rindri
             if line.tag == "text":
                 tone = line.get("tone")
                 text = line.text

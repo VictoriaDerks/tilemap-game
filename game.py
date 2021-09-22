@@ -1,7 +1,7 @@
 # this file handles the overworld map and calls Dialog.py when appropriate
-# this file is based on "Pyllet Town" (see Manual.docx and/or Credits.txt) and resembles much of the code written there
+# this file is based on "Pyllet Town" (see README.docx and/or Credits.txt) and resembles much of the code written there
 # however, the code here is more complicated and allows for more functionality
-# for a direct comparision between the files, use the Pycharm compare function
+
 import pygame  # make sure pygame module is installed
 import tmx
 import dialog
@@ -185,7 +185,7 @@ class Game(object):
             
     def main(self):
         clock = pygame.time.Clock()
-        self.initArea('test4.tmx')  # loads tilemap file
+        self.initArea('tilemap.tmx')  # loads tilemap file
         
         while 1:
             dt = clock.tick(30)  # limits frametrate

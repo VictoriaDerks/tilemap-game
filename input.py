@@ -1,3 +1,6 @@
+# this file deals with the part of the game where the user inputs their user name.
+# based on https://stackoverflow.com/questions/14111381/how-to-get-text-input-from-user-in-pygame
+
 import pygame
 from pygame.locals import *
 

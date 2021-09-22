@@ -17,12 +17,12 @@ game dev experience back then and barely knew how to use python, let alone pygam
 and basically a trial by fire. So beware, even though it runs and is very well commented, some elements of the game may
 still show signs of sloppy beginner code.
 
-## What is this about an 'experiment'?
+
 The brief for the final assignment of the Python for Psychologists module was that students could create anything, as 
 long as it was similar to a psychology experiment. 'Experiment' being quite loosely defined by the lecturer.
 
-The research question in this experiment was: “What choices do players make in video games, and are these choices 
-internally consistent?”. 
+The research question in this particular 'experiment' was: “What choices do players make in video games, and are these 
+choices internally consistent?”. 
 The experiment records the choices players make in a custom-made video game focussed around interaction and exploration.
 In exploring the world, the player will interact with multiple NPCs (non-player characters) and is given the option to 
 respond. Three dialog choices are always available: 
@@ -46,9 +46,10 @@ of dialog choices a player can make is 31. The maximum amount is 51 choices.
 ## How to run
 The two programs run smoothly by themselves, provided all referenced files are in the right place. 
 It is especially important that the img, dialog, sprites, fonts and tiles folders contain the right assets and that the 
-`.tmx`, `.tsx` and `.py `files are in the main folder. The `pygame` library should be installed as well.
+`.tmx` and `.py `files are in the main folder. The `pygame` and `PyQt5` libraries should be installed as well.
+These can be installed from the `requirements.txt` file: `pip install -r requirements.txt`.
 
-Run `Demographics.py` to open a PyQT5 interface with an info sheet and demographics questions.
+Run `Demographics.py` to open a PyQt interface with an info sheet and demographics questions.
 
 Run `game.py` to play the game.
 

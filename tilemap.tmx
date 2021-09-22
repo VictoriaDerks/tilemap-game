@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="95" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="51" nextobjectid="1">
- <tileset firstgid="1" source="fence-snow.tsx"/>
- <tileset firstgid="89" source="rock-snow.tsx"/>
- <tileset firstgid="121" source="trees-snow.tsx"/>
- <tileset firstgid="191" source="ground.tsx"/>
- <tileset firstgid="331" source="houses-snow.tsx"/>
- <tileset firstgid="499" source="triggers.tsx"/>
- <tileset firstgid="511" source="houses.tsx"/>
- <tileset firstgid="836" source="trees3.tsx"/>
- <tileset firstgid="980" source="rocks.tsx"/>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="95" height="100" tilewidth="32" tileheight="32" infinite="0" nextlayerid="51" nextobjectid="1">
+ <tileset firstgid="1" source="tiles/fence-snow.tsx"/>
+ <tileset firstgid="89" source="tiles/rock-snow.tsx"/>
+ <tileset firstgid="121" source="tiles/trees-snow.tsx"/>
+ <tileset firstgid="191" source="tiles/ground.tsx"/>
+ <tileset firstgid="331" source="tiles/houses-snow.tsx"/>
+ <tileset firstgid="499" source="tiles/triggers.tsx"/>
+ <tileset firstgid="511" source="tiles/houses.tsx"/>
+ <tileset firstgid="836" source="tiles/trees3.tsx"/>
+ <tileset firstgid="980" source="tiles/rocks.tsx"/>
  <layer id="41" name="ground" width="95" height="100">
   <data encoding="base64" compression="zlib">
    eJztl01OG0EQRo05AJtckCWn4i4cIhHiBpCIHRs2MVKQRp3urt+eqnF9lj4Zg6en+9Wrsnk4nU4PSFjOyJJ4sr+fJPqcGQPvwb5iwD43ewv/dp1T8xx9/krso8+bKVb2s+8292C/lL3lPtFnj04k++r892Tfu1/0+auxPzuue+SAfU32Z6e1jxqwB/uKAXuwrxiwB/uKAfvrZ0/VoGL2Zj+qQcVEsUfAHuxrBuxzs5fUSFKr6rWF82BfMWAP9hUD9mBfMWCfI2Cfj3/0nqoE7MG+YsB+PV8Je8T2PYR7TfRZjhawz80f7GO4gz3YX2N6DD9uwD6KPbwH+2sP2IN9xYA92FfMlhvYx7CH9znz2SR6P9cQjvNf+XH5P/duE3jfT+toZKJZRLC/u+HFm3W7fjSL7N73atHWRVvLaBbwvk6svCyB9zHe99aPZgHv68TDe01PwHt4H83d4r32c6C6917M4D28P1I8mFl6obL3UnYVvdecLXus3kfv3fo5Z50Z3pH2bERWuheZDN57z+mZ99q6tz97rC1lH9F7Wbz3vj6D95w9e8wt68zz6L8I77fXSs7i4Zt1jV4dPCL9rPU8f+/1jH2E8736W/rG4r3k3jP2Iy7ezmbJi4P3Eg4cd6haUn2h9Zi7b46/VJ7/sbd4P1v/8fb/bB+zvuWy8PRQWxdN/lzy7uD9aP2WNYe9xGkrW04NOX3oGU/vJey53CXzyXu2rI7V+96soWbO6Jny0OKkpBe2r58u+dWJR81Xed8+KBZcrns5+Z2fA/YU21F/ab33PNN2Hxyu1tkqmTHbv2nZz87j7b1XKM4etZYwe73krclvIwuN9xYOreftWSn+3r1Gvcda52zeUwxG75U4q+mZ2f1W9LLFe6tzo1pI9u3RFx5cLZF+1lKzgev9jNmM6+x32j6MiuX7vWT/lLOa2lHzivJduu8s7C2ucf0bXWedIdz3a+vF3d+e33MoV6Vs9pof1J728t6aGdNendqfrc5r9jvzxBLLvNf6M/LFOidW+e55r+2a2f6v3YOp9xzSXrun9xmSobZa9keIRz1W7+/r+S9rK1EL
@@ -16,7 +16,7 @@
  </layer>
  <layer id="42" name="grass" width="95" height="100">
   <data encoding="base64" compression="zlib">
-   eJzt2VFKw0AUBdAn2YHbUftl/aouxi3VX92CWzPBlk4Gk0rJzJD2HLikPyHhDn0MkwgAAFhe1/oFgJtmBtXXhd5b0TsAAADAunRZAACA65Pv9+3/gZbMoLZ0vw7ped2+z0eM/zv5mZ7zveWkfX/2+Yq/O55bA+twmbzviHGXab/b0P3SprpMr9sYd5/fV8pjn6eJbAo+t4b/9D6VdF6V8hyndc/zUvC5NZyb43MzJp1Xpez6vB5yH9fV/Zqk6zDkre3rAAAAANycuTNo3wTKyzv2XQYAAAAAAACAGh7ufkN9ugcAKO87TvuuIe+dfVgtQ8dT/VPH0Pex8+NvAAAAAKC9H0NuGUw=
+   eJzt2UtOwzAUBdBXsgO2w2fUMgIWw5ZgClvo1khUqjpWExCKbaU9R7pqJ1Wsa/XJciIAAGB5XesFAFfNDKqvC723oncAAACAdemyAAAAlyc/7zv/Ay2ZQW3pfh3S+7r3Ph8x/u/kd3ru95aT9v3Z5yvOdzy3B/bhf/K+I8Zdpv3uQvdLm+oy/dzFuPv8d6Xc93mYyGPB59bwl96nks6rUrZx2vc8TwWfW8Nvc3xuxqTzqpTnPi8/uY3L6n5N0n0Y8tp2OcAVumm9AAAAgMbm7qC9Eygv79h7GQAAAAAAAABquNscQn26BwAobx+nc9eQt845rJah46n+qWPo+9j58TsAAAAA0N434VYZTg==
   </data>
  </layer>
  <layer id="43" name="background" width="95" height="100">
