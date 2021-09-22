@@ -166,7 +166,6 @@ class DialogText:
                 pass
             screen.drawNPC(self.currentNPC)  # again, always Rindri
             screen.drawDialog(self.currentNPC)  # draw the dialog box belonging to the NPC
-            print(self.currentLine)
             self.drawText(self.currentLine)
         else:
             screen.drawDialog("options")
